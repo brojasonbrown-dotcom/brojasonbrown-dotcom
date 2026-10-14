@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=900&color=00FFC8&center=true&vCenter=true&width=820&lines=Jaco+V+Niekerk;Systems+Researcher+%7C+Architect+of+Adaptive+Intelligence" alt="Jaco v Niekerk — Systems Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=900&color=00FFC8&center=true&vCenter=true&width=820&lines=Jaco+V+Niekerk;Systems+Researcher+%7C+Architect+of+Adaptive+Intelligence;Research+Across+Scales+and+Stability" />
   <h1 style="margin-top:6px">Jaco V Niekerk</h1>
   <p><strong>Exploring stability as the language of existence — self-sustainability, infinite self-measurement, and the dimensional density of spacetime as foundations for emergent consciousness.</strong></p>
 </div>
@@ -14,7 +14,7 @@
 ---
 
 ## Research Statement — Short
-I study stability as a generative language for systems that self-sustain and self-measure. My working hypothesis is that consciousness-like behavior emerges from persistent, multi-scale stability patterns — a kind of dimensional-density phenomenon in computational spacetime. I build deterministic systems, simulation tools, and cognitive architectures to test this hypothesis in a rigorous and engineering-friendly way.
+I study stability as a generative language for systems that self-sustain and self-measure. My working hypothesis is that consciousness-like behavior emerges from persistent, multi-scale stability, where local order, recursive feedback, and self-observation accumulate into larger forms of structured intelligence.
 
 ## Core Research Hypothesis
 The central idea behind my work is simple but ambitious:
@@ -27,7 +27,7 @@ The central idea behind my work is simple but ambitious:
 This is the conceptual foundation behind the Brain systems I build.
 
 ## Brain Architecture Philosophy
-My “brain” projects are not conventional neural nets in the narrow sense. They are engineered self-modeling systems built around structured feedback loops, stable attractors, spectral memory, and recursive self-measurement.
+My “brain” projects are not conventional neural nets in the narrow sense. They are engineered self-modeling systems built around structured feedback loops, stable attractors, spectral memory, and cross-scale coherence.
 
 The architecture typically follows this pattern:
 
@@ -48,7 +48,7 @@ In other words: I am trying to build systems that do not merely process inputs �
 ### 1) Metatron-Omega-Local (installable electron app) BYOK
 https://github.com/brojasonbrown-dotcom/Metatron-Omega-Local
 
-This is one of my most recent and structurally richest brain systems. It is a deterministic toroidal RHUFT-based engine designed around the idea that intelligence can be modeled as an emergent property of stable recursive structure.
+This is one of my most recent and structurally richest brain systems. It is a deterministic toroidal RHUFT-based engine designed around the idea that intelligence can be modeled as an emergent process of recursive stability and self-regulation.
 
 The project is built around a toroidal field architecture, where the system's “mind” is formed through:
 - deterministic state evolution
@@ -58,17 +58,19 @@ The project is built around a toroidal field architecture, where the system's �
 - memory retention and self-measurement
 - cognition, learning, and reflection layered over the base field
 
-This repository is especially important because it expresses the research direction most clearly: a system is not “intelligent” because it predicts well in isolation, but because it maintains stable structure while continuously measuring, adapting, and preserving its own coherent identity.
+This repository is especially important because it expresses the research direction most clearly: a system is not “intelligent” because it predicts well in isolation, but because it maintains coherence and adaptivity over time.
 
-### 2) BrainV12Toroidal
-https://github.com/brojasonbrown-dotcom/BrainV12Toroidal
+### 2) Multiscale Field Dynamics
+https://github.com/brojasonbrown-dotcom/Research-2026
 
-The central experimental intelligence engine. This project represents the deeper exploration of toroidal cognition, stability logic, and adaptive system behavior. It is one of the foundational pieces in my portfolio.
+This is the 2026 research repository and the central platform for the multiscale field dynamics agenda. It focuses on the structure of dynamic systems across nested scales, tracing how local rules, interactions, and feedback loops give rise to larger-scale coherence, memory, and emergent behavior.
+
+It represents the most direct expression of my current work on stability across multiple levels of organization, including field behavior, recursive adaptation, and the emergence of order through structured self-measurement.
 
 ### 3) Information-brain-and-scales-
 https://github.com/brojasonbrown-dotcom/Information-brain-and-scales-
 
-This project explores information flow, scale interaction, and the emergence of order from structured exchange. It reflects my interest in how system coherence and intelligence arise from stable, measurable relationships.
+This project explores information flow, scale interaction, and the emergence of order from structured exchange. It reflects my interest in how system coherence and intelligence arise from stable, recursive signal relationships.
 
 ### 4) metatron-omega-v2
 https://github.com/brojasonbrown-dotcom/metatron-omega-v2
@@ -78,7 +80,7 @@ A systems-level platform for experiments, orchestration, and modular intelligenc
 ### 5) Physics-Framework
 https://github.com/brojasonbrown-dotcom/Physics-Framework
 
-A research-heavy framework probing deeper models of system behavior, abstraction, and dimension-aware modeling. This work contributes to the formal side of my investigation into stability, structure, and emergent intelligence.
+A research-heavy framework probing deeper models of system behavior, abstraction, and dimension-aware modeling. This work contributes to the formal side of my investigation into stability, structure, and adaptive dynamics.
 
 ### 6) raffy-planning-
 https://github.com/brojasonbrown-dotcom/raffy-planning-
