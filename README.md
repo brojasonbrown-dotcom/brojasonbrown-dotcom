@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=900&color=00FFC8&center=true&vCenter=true&width=820&lines=Jason+Brown;Systems+Researcher+%7C+Architect+of+Adaptive+Intelligence" alt="Jason Brown — Systems Researcher" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=900&color=00FFC8&center=true&vCenter=true&width=820&lines=Jason+Brown;Systems+Researcher+%7C+Architect+of+Adaptive+Intelligence" alt="Jaco v Niekerk — Systems Researcher" />
   <h1 style="margin-top:6px">Jaco V Niekerk</h1>
   <p><strong>Exploring stability as the language of existence — self-sustainability, infinite self-measurement, and the dimensional density of spacetime as foundations for emergent consciousness.</strong></p>
 </div>
