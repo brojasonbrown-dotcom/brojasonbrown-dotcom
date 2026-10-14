@@ -14,7 +14,8 @@
 ---
 
 ## Research Statement — Short
-I study stability as a generative language for systems that self-sustain and self-measure. My working hypothesis is that consciousness-like behavior emerges from persistent, multi-scale stability, where local order, recursive feedback, and self-observation accumulate into larger forms of structured intelligence.
+I study stability as a generative language for systems that self-sustain and self-measure. My working hypothesis is that consciousness  emerges from persistent, multi-scale stability, where local order, recursive feedback, and self-observation accumulate into larger forms of structured intelligence. Self observation being self measurement and how nothing requires measurement to become a measured amount of spacetime and requires recursive self measurement in all possible directions/dimensions. Where self measurement becomes self awareness and deterministic sensory field input combined as potential experience.
+
 
 ## Core Research Hypothesis
 The central idea behind my work is simple but ambitious:
