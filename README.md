@@ -45,7 +45,7 @@ In other words: I am trying to build systems that do not merely process inputs â
 
 ## Featured Research Core
 
-### 1) Metatron-Omega-Local
+### 1) Metatron-Omega-Local (installable electron app) BYOK
 https://github.com/brojasonbrown-dotcom/Metatron-Omega-Local
 
 This is one of my most recent and structurally richest brain systems. It is a deterministic toroidal RHUFT-based engine designed around the idea that intelligence can be modeled as an emergent property of stable recursive structure.
