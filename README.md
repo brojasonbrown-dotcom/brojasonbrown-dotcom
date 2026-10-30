@@ -40,6 +40,8 @@ The uninstantiated space of possibilities *before* any distinction is actualized
 ontology this is **Layer 0 — ontological potential**: "not ordinary physical vacuum … pre-physical
 admissibility; timeless, pre-metric or proto-metric, unconstrained by realized law, not yet
 partitioned into observer and observed."
+-meaning 0 equates to potential as timeless mathematical possibility ,and for something to be possible the math/physics itself needs to hold the possibility for emergent existence in a dipolar differential potential field.
+-where indifference causes dimensional action to reaction to stabilize and balance systems. These systems are anchors in dimension according to information density "mass" they hold. and dimensional indifference of these systems and their fields due to relativeity and indifference the same principles that causes electromagnetic induction at planetary scales and the way we interpret things at scale (the same processes at smaller scales are seen at other larger scales of spacetime) but the larger a body or the more mass the phase drift is lag causing gravity due to density of information to be measured/processed at scale. 
 
 - Rigorous content: a configuration/possibility space with no realized dynamics — the set of
   admissible field states *before* a measurement interaction selects one.
@@ -79,7 +81,7 @@ source corpus:
 
 ### The bridge: RHUFT as resolution-hierarchy transfer
 
-The term "RHUFT" is operationalized in this repo as a **resolution-hierarchy transfer map**: a
+The term "RHUFT" is operationalized in this repo as a **Recursive harmonic unified field theology**: a
 family of transformations (dyadic coarse-grain / lift, RG orbits, scale residuals) that carry field
 states between resolutions while preserving diagnostically relevant structure. The rigorous
 requirement is that **a persistence claim must not depend arbitrarily on truncation** — a structure
