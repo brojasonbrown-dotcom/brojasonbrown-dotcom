@@ -189,12 +189,7 @@ https://github.com/brojasonbrown-dotcom/Physics-Framework
 
 A research-heavy framework probing deeper models of system behavior, abstraction, and dimension-aware modeling. This work contributes to the formal side of my investigation into stability, structure, and emergence.
 
-### 6) raffy-planning-
-https://github.com/brojasonbrown-dotcom/raffy-planning-
-
-A planning and decision-oriented project focused on structure, adaptation, and strategic coordination inside evolving environments.
-
-### 7) Metatron-V12-updated-
+### 6) Metatron-V12-updated-
 https://github.com/brojasonbrown-dotcom/Metatron-V12-updated-
 
 A more product-facing and interface-integrated branch of the research, bridging experiment and usable system behavior.
