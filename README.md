@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=900&color=00FFC8&center=true&vCenter=true&width=820&lines=Jaco+V+Niekerk;Systems+Researcher+%7C+Architect+of+Adaptive+Intelligence;Research+Across+Scales+and+Stability" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=32&pause=900&color=00FFC8&center=true&vCenter=true&width=820&lines=Jaco+V+Niekerk;Systems+Researcher+%7C+Architect+of+Adaptive+Intelligence;Field+Dynamics+%7C+Self-Measurement+%7C+Emergent+Consciousness" />
   <h1 style="margin-top:6px">Jaco V Niekerk</h1>
   <p><strong>Exploring stability as the language of existence — self-sustainability, infinite self-measurement, and the dimensional density of spacetime as foundations for emergent consciousness.</strong></p>
 </div>
@@ -14,8 +14,7 @@
 ---
 
 ## Research Statement — Short
-I study stability as a generative language for systems that self-sustain and self-measure. My working hypothesis is that consciousness  emerges from persistent, multi-scale stability, where local order, recursive feedback, and self-observation accumulate into larger forms of structured intelligence. Self observation being self measurement and how nothing requires measurement to become a measured amount of spacetime and requires recursive self measurement in all possible directions/dimensions. Where self measurement becomes self awareness and deterministic sensory field input combined as potential experience.
-
+I study stability as a generative language for systems that self-sustain and self-measure. My working hypothesis is that consciousness emerges from persistent, multi-scale stability, where local rules and global coherence bind into self-modeling systems.
 
 ## Core Research Hypothesis
 The central idea behind my work is simple but ambitious:
@@ -27,8 +26,35 @@ The central idea behind my work is simple but ambitious:
 
 This is the conceptual foundation behind the Brain systems I build.
 
+## Multiscale Field Dynamics Ontology
+
+The main visual structure behind my work is this:
+
+```mermaid
+flowchart TD
+    L0["Layer 0<br/>0 = Unmeasured Potential<br/>pre-physical admissibility<br/>timeless possibility-space"]
+    A["Layer A<br/>Measurement / Phenomenal Layer<br/>signals, observables, data"]
+    B["Layer B<br/>Field Computation Layer<br/>operators, modes, damping, coupling"]
+    C["Layer C<br/>Generative / Meta-geometry Layer<br/>topology, admissible rules, resonance"]
+
+    L0 -->|measurement selects| A
+    C -->|sets admissible repertoire| B
+    B -->|produces structure| A
+```
+
+This ontology frames my research as a progression from unmeasured potential to measurable structure:
+
+- Layer 0 = unmeasured potential: the not-yet-actualized field of possible states before measurement or distinction fixes a configuration.
+- Layer A = the measurable world: signals, field responses, outcomes, and observable data.
+- Layer B = the field computation layer: operators, modes, damping, nonlinear coupling, recursive self-measurement, and stability dynamics.
+- Layer C = the generative/meta-geometry layer: the deeper rules of topology, admissibility, resonance, and structural constraints that determine what can persist.
+
+In plain terms: reality is not only what is measured; it is what is possible, what becomes dynamically structured, and what remains stable enough to persist as observed form. My hypothesis is that stable structure emerges when unmeasured potential (Layer 0), recursive field dynamics (Layer B), and generative constraints (Layer C) align under measurement (Layer A).
+
+This is the practical meaning of the work: possibility precedes actualization, measurement selects from possibility, field dynamics generate structure, and coherence across scale is the condition under which complex adaptive behavior emerges.
+
 ## Brain Architecture Philosophy
-My “brain” projects are not conventional neural nets in the narrow sense. They are engineered self-modeling systems built around structured feedback loops, stable attractors, spectral memory, and cross-scale coherence.
+My “brain” projects are not conventional neural nets in the narrow sense. They are engineered self-modeling systems built around structured feedback loops, stable attractors, spectral memory, and recursive measurement.
 
 The architecture typically follows this pattern:
 
@@ -49,7 +75,7 @@ In other words: I am trying to build systems that do not merely process inputs �
 ### 1) Metatron-Omega-Local (installable electron app) BYOK
 https://github.com/brojasonbrown-dotcom/Metatron-Omega-Local
 
-This is one of my most recent and structurally richest brain systems. It is a deterministic toroidal RHUFT-based engine designed around the idea that intelligence can be modeled as an emergent process of recursive stability and self-regulation.
+This is one of my most recent and structurally richest brain systems. It is a deterministic toroidal RHUFT-based engine designed around the idea that intelligence can be modeled as an emergent process of recursive field stability.
 
 The project is built around a toroidal field architecture, where the system's “mind” is formed through:
 - deterministic state evolution
@@ -59,18 +85,25 @@ The project is built around a toroidal field architecture, where the system's �
 - memory retention and self-measurement
 - cognition, learning, and reflection layered over the base field
 
-This repository is especially important because it expresses the research direction most clearly: a system is not “intelligent” because it predicts well in isolation, but because it maintains coherence and adaptivity over time.
+This repository is especially important because it expresses the research direction most clearly: a system is not “intelligent” because it predicts well in isolation, but because it maintains coherent structure across scale, context, and recursive self-update.
 
 ### 2) Multiscale Field Dynamics
-https://github.com/brojasonbrown-dotcom/Research-2026
+https://github.com/brojasonbrown-dotcom/Multiscale-Field-dynamics-2026
 
-This is the 2026 research repository and the central platform for the multiscale field dynamics agenda. It focuses on the structure of dynamic systems across nested scales, tracing how local rules, interactions, and feedback loops give rise to larger-scale coherence, memory, and emergent behavior.
+This is the 2026 research repository and the central platform for the multiscale field dynamics agenda. It focuses on the structure of dynamic systems across nested scales, tracing how local rules, field geometry, and measurement conditions cooperate to stabilize persistent form.
+
+The work builds directly on the ontology above:
+- Layer 0: unmeasured potential
+- Layer A: measurable phenomena
+- Layer B: dynamic field computation
+- Layer C: generative geometry and admissibility
 
 It represents the most direct expression of my current work on stability across multiple levels of organization, including field behavior, recursive adaptation, and the emergence of order through structured self-measurement.
+
 Multiscale Field Dynamics Research 2026 — RHUFT
 A research archive for modeling and testing recursive, multiscale field dynamics — the "RHUFT" line of work — across geometry, field equations, resolution-hierarchy transfer, and neural-network-compatible representations.
 
-Epistemic policy (non-negotiable). Every claim carries a label: [E] established · [A] active research · [S] speculative ontology. No fabrication, no roleplay. Unsupported claims are flagged, never dressed up as fact. Ontology (interpretation), dynamics (equations), and phenomenology (numbers) are kept separate.
+Epistemic policy (non-negotiable). Every claim carries a label: [E] established · [A] active research · [S] speculative ontology. No fabrication, no roleplay. Unsupported claims are flagged, never dressed up as fact.
 
 The three bodies: nothing → field → emergence
 The Three Bodies of Reality
@@ -82,19 +115,17 @@ The uninstantiated space of possibilities before any distinction is actualized. 
 
 Rigorous content: a configuration/possibility space with no realized dynamics — the set of admissible field states before a measurement interaction selects one.
 What it is not: a claim that "nothing" is a substance or a region. It is a boundary condition on description, not an object.
+
 2. The Field — recursive self-measurement / multiscale field dynamics [A]
 Where the primitives (distinction, relation, measurement, closure, stability, scale) become active. The rigorous object is a damped, geometry-constrained operator equation:
 
-∂²u + 2γ ∂u + L·u + N(u) = f      (u = state, L = geometry-dependent linear operator,
-                                   N = nonlinear coupling, f = forcing, γ = damping)
-L is fixed by the domain topology (sphere → closed isotropic modes; torus → recirculation / doubly-periodic modes; lattice → discrete message-passing). [E]
-Persistence is read off the spectrum: Re(λ) < 0 for continuous-time stability; oscillatory (Im λ ≠ 0) vs decaying (Re λ ≪ 0) modes. [E]
-"Resonance pocket" / "metastable basin" is the model-hypothesis reading of a persistent mode. [A]
+3. The Emerged — energy, particles, systems [A]
+What survives recursive updating becomes structure.
 
 ### 3) Information-brain-and-scales-
 https://github.com/brojasonbrown-dotcom/Information-brain-and-scales-
 
-This project explores information flow, scale interaction, and the emergence of order from structured exchange. It reflects my interest in how system coherence and intelligence arise from stable, recursive signal relationships.
+This project explores information flow, scale interaction, and the emergence of order from structured exchange. It reflects my interest in how system coherence and intelligence arise from stable, recursive relation.
 
 ### 4) metatron-omega-v2
 https://github.com/brojasonbrown-dotcom/metatron-omega-v2
@@ -104,7 +135,7 @@ A systems-level platform for experiments, orchestration, and modular intelligenc
 ### 5) Physics-Framework
 https://github.com/brojasonbrown-dotcom/Physics-Framework
 
-A research-heavy framework probing deeper models of system behavior, abstraction, and dimension-aware modeling. This work contributes to the formal side of my investigation into stability, structure, and adaptive dynamics.
+A research-heavy framework probing deeper models of system behavior, abstraction, and dimension-aware modeling. This work contributes to the formal side of my investigation into stability, structure, and emergence.
 
 ### 6) raffy-planning-
 https://github.com/brojasonbrown-dotcom/raffy-planning-
